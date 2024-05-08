@@ -50,7 +50,7 @@ An example script is provided to demonstrate how to use the trained model to pre
 * predict_poker_hand.py: Example script to predict poker hands based on input cards.
 ## Authors
 
-- [@wynalazca382](https://github.com/wynalazca382)
+- [@wynalazca382](https://github.com/wynalazca382) Łukasz Gajewski 20179
 
 
 ## License
