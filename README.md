@@ -56,7 +56,7 @@ An example script is provided to demonstrate how to use the trained model to pre
 ## License
 
  "THE BEERWARE LICENSE" (Revision 42):
- [@wynalazca382] wrote this code. As long as you retain this 
+ wynalazca382 wrote this code. As long as you retain this 
  notice, you can do whatever you want with this stuff. If we
  meet someday, and you think this stuff is worth it, you can
  buy me a beer in return.
