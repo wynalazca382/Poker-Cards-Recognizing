@@ -54,7 +54,15 @@ predict_poker_hand.py: Example script to predict poker hands based on input card
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+/*
+ * ------------------------------------------------------------
+ * "THE BEERWARE LICENSE" (Revision 42):
+ * [@wynalazca382] wrote this code. As long as you retain this 
+ * notice, you can do whatever you want with this stuff. If we
+ * meet someday, and you think this stuff is worth it, you can
+ * buy me a beer in return.
+ * ------------------------------------------------------------
+ */
 
 
 ## Acknowledgments
